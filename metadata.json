@@ -1,0 +1,6 @@
+{
+  "name": "STRATOS: Energy Supply Chain Resilience Platform",
+  "description": "A real-time geopolitical energy intelligence platform and digital twin analyzing global maritime supply chains, tankers, chokepoints, and refinery corridors with multi-agent deliberations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
